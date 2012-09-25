@@ -16,16 +16,16 @@ Question 2
 For each of the three ambiguous newspaper headlines I stated in the lecture, rewrite it in a way
 that avoids the amusing second meaning, while retaining the brevity of a typical headline:
 
-(a) Sisters reunited after ten years in checkout line at Safeway.
-(b) Large hole appears in High Street. City authorities are looking into it.
-(c) Mayor says bus passengers should be belted.
+1. Sisters reunited after ten years in checkout line at Safeway.
+2. Large hole appears in High Street. City authorities are looking into it.
+3. Mayor says bus passengers should be belted.
 
 Answer:
 ------
 
-(a) Sisters reunited in checkout line at Safeway after ten years apart.
-(b) Large hole appears in High Street. City authorities are looking into fixing it.
-(c) Mayor says bus passengers should wear seat belts.
+1. Sisters reunited in checkout line at Safeway after ten years apart.
+2. Large hole appears in High Street. City authorities are looking into fixing it.
+3. Mayor says bus passengers should wear seat belts.
 
 Question 3
 =========
@@ -49,10 +49,9 @@ second reading. (Again, given the context for this notice, the ambiguity is not 
 Answer:
 ------
 
-**First meaning** : The elevator is to be used only in case there is a fire. (Actually this has an even stronger meaning if you replace the comma with a period.)
-**Second meaning**: If the building catches on fire, the use of the elevator is prohibited. 
-
-**Reformulation**: Do not use the elevator in case there is a fire.
+- **First meaning** : The elevator is to be used only in case there is a fire. (Actually this has an even stronger meaning if you replace the comma with a period.)
+- **Second meaning**: If the building catches on fire, the use of the elevator is prohibited. 
+- **Reformulation**: Do not use the elevator in case there is a fire.
 
 Question 5
 =========
@@ -82,7 +81,9 @@ very common.)
 Answer:
 ------
 
-
+1. 
+2. 
+3. 
 
 Question 7
 =========
