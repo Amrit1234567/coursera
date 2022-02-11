@@ -105,8 +105,11 @@ where p1, p2, p3, . . . , pn , . . . is the list of all prime numbers?
 
 Answer:
 ------
+Suppose the result from N = (p1 · p2 · p3 · . . . · pn) + 1 is prime. Then N is a prime number.
 
+If N is not prime, then the number which perfectly divides N must be the multiple of two primes. We know, the remainder is 1 if any primes in the list divide N. The multiple of two primes are greater than pn. 
 
+Therefore, not every number of the form N = (p1 · p2 · p3 · . . . · pn) + 1 is prime.
 
 ---
 
